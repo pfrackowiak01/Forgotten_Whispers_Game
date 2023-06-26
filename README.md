@@ -1,5 +1,5 @@
 # Forgotten Whispers Card Game in Unity (C\#)
- Big game project (deck-builder roguelike) for my engineering degree.
+ Big mobile game project (deck-builder roguelike) for my engineering degree.
 
 Game Jolt profile: https://gamejolt.com/@SkipperFox
 
